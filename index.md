@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BIENVENIDOS A MI PAGINA WEV ARIT
 
 You can use the [editor on GitHub](https://github.com/ARIT312/arit312.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# ARISTEO JIMENEZ FLORES 1
 ## Header 2
 ### Header 3
 
